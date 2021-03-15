@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/usr/share/backgrounds/noobie/012.jpg"
+let background = "#030F18"
+let foreground = "#9ed0e8"
+let cursor     = "#9ed0e8"
+
+" Colors
+let color0  = "#030F18"
+let color1  = "#4A6A78"
+let color2  = "#0F588A"
+let color3  = "#196DA7"
+let color4  = "#187CBE"
+let color5  = "#2597DB"
+let color6  = "#52A9D2"
+let color7  = "#9ed0e8"
+let color8  = "#6e91a2"
+let color9  = "#4A6A78"
+let color10 = "#0F588A"
+let color11 = "#196DA7"
+let color12 = "#187CBE"
+let color13 = "#2597DB"
+let color14 = "#52A9D2"
+let color15 = "#9ed0e8"

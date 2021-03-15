@@ -1,0 +1,21 @@
+set $wallpaper /usr/share/backgrounds/noobie/012.jpg
+
+set $background #030F18
+set $foreground #9ed0e8
+
+set $color0 #030F18
+set $color1 #4A6A78
+set $color2 #0F588A
+set $color3 #196DA7
+set $color4 #187CBE
+set $color5 #2597DB
+set $color6 #52A9D2
+set $color7 #9ed0e8
+set $color8 #6e91a2
+set $color9 #4A6A78
+set $color10 #0F588A
+set $color11 #196DA7
+set $color12 #187CBE
+set $color13 #2597DB
+set $color14 #52A9D2
+set $color15 #9ed0e8

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/noobie/023.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000001",
+        "foreground": "#cddded",
+        "cursor": "#cddded"
+    },
+    "colors": {
+        "color0": "#000001",
+        "color1": "#807E92",
+        "color2": "#6689B4",
+        "color3": "#2B89D8",
+        "color4": "#609CD8",
+        "color5": "#939EB4",
+        "color6": "#91B5DB",
+        "color7": "#cddded",
+        "color8": "#8f9aa5",
+        "color9": "#807E92",
+        "color10": "#6689B4",
+        "color11": "#2B89D8",
+        "color12": "#609CD8",
+        "color13": "#939EB4",
+        "color14": "#91B5DB",
+        "color15": "#cddded"
+    }
+}
